@@ -102,7 +102,7 @@ In this task you will add code for a simple HTTP Get method that returns a hard-
 
 	![](./images/07-new-controller-name-v2.png)
 
-8. Once the ContactsController.cs file has been created, replace the entire contents of the file with the following code.
+8. Once the **ContactsController.cs** file has been created, replace the entire contents of the file with the following code.
 
 		using ContactsList.Models;
 		using System;
