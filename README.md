@@ -5,6 +5,10 @@
 # Azure Readiness - Imagine Cup Pakistan 2018
 
 Contributor : Saad Mahmood 
+The repository includes Dev/App side of Azure resource 
+It includes two parts,
+#### Presentations
+#### HOL (Hands-on Labs)
 
 [Sign up for Microsoft Azure](http://aka.ms/CloudCamp-AzureTrial)
 
@@ -40,7 +44,7 @@ Contributor : Saad Mahmood
 
 <td>30</td>
 
-<td>[Presentation](Presentation/Keynote/Keynote.pptx)</td>
+<td>Introduction to Azure </td>
 
 </tr>
 
@@ -48,7 +52,7 @@ Contributor : Saad Mahmood
 
 <td>15</td>
 
-<td>[HOL - Signup](HOL/activate-benefits/README.md)</td>
+<td>HOL - Signup)</td>
 
 </tr>
 
@@ -56,7 +60,7 @@ Contributor : Saad Mahmood
 
 <td>15</td>
 
-<td>[HOL - Working with the new Portal](HOL/management-portal/README.md)</td>
+<td>HOL - Working with the new Portal</td>
 
 </tr>
 
@@ -66,7 +70,7 @@ Contributor : Saad Mahmood
 
 <td>45</td>
 
-<td>[Presentation](Presentation/Web/Web.pptx)</td>
+<td>Learn About Azure Web Apps</td>
 
 </tr>
 
@@ -74,7 +78,7 @@ Contributor : Saad Mahmood
 
 <td>30</td>
 
-<td>[HOL - Deploy a Web App to Azure](HOL/creating-web-app/README.md)</td>
+<td>HOL - Deploy a Web App to Azure</td>
 
 </tr>
 
@@ -84,7 +88,7 @@ Contributor : Saad Mahmood
 
 <td>45</td>
 
-<td>[Presentation](Presentation/API/API.pptx)</td>
+<td>Learn about API Apps</td>
 
 </tr>
 
@@ -92,7 +96,7 @@ Contributor : Saad Mahmood
 
 <td>30</td>
 
-<td>[HOL - Creating and Consuming an API App Instance](HOL/consuming-api-app/README.md)</td>
+<td>HOL - Creating and Consuming an API App Instance</td>
 
 </tr>
 
@@ -102,7 +106,7 @@ Contributor : Saad Mahmood
 
 <td>30</td>
 
-<td>[Presentation](Presentation/Logic/Logic.pptx)</td>
+<td>Learn about Logic Apps</td>
 
 </tr>
 
@@ -110,7 +114,7 @@ Contributor : Saad Mahmood
 
 <td>30</td>
 
-<td>[HOL - Creating a Logic App](HOL/creating-logic-app/README.md)</td>
+<td>HOL - Creating a Logic App</td>
 
 </tr>
 
@@ -120,7 +124,7 @@ Contributor : Saad Mahmood
 
 <td>45</td>
 
-<td>[Presentation](Presentation/Mobile/Mobile.pptx)</td>
+<td>Learing about Azure mobile Apps</td>
 
 </tr>
 
@@ -128,7 +132,7 @@ Contributor : Saad Mahmood
 
 <td>30</td>
 
-<td>[HOL - Creating and Using a Mobile App](HOL/creating-mobile-app/README.md)</td>
+<td>HOL - Creating and Using a Mobile App</td>
 
 </tr>
 
@@ -136,7 +140,7 @@ Contributor : Saad Mahmood
 
 <td>60</td>
 
-<td>[HOL - Building an end-to-end solution using App Service](HOL/full-solution/README.md)</td>
+<td>HOL - Building an end-to-end solution using App Service</td>
 
 </tr>
 
@@ -152,72 +156,3 @@ Contributor : Saad Mahmood
 
 <div class="panel-heading">
 
-### Full presentation list
-
-</div>
-
-<div class="panel-body">
-
-<table class="table table-bordered table-striped table-hover">
-
-<tbody>
-
-<tr>
-
-<td>[Keynote](Presentation/Keynote/Demo.md)</td>
-
-<td>[Presentation](Presentation/Keynote/Keynote.pptx)</td>
-
-<td>This module introduces the Cloud and the Cadence of Azure.</td>
-
-</tr>
-
-<tr>
-
-<td>[Web](Presentation/Web/Demo.md)</td>
-
-<td>[Presentation](Presentation/Web/Web.pptx)</td>
-
-<td>This module introduces the Web App service.</td>
-
-</tr>
-
-<tr>
-
-<td>[API](Presentation/API/Demo.md)</td>
-
-<td>[Presentation](Presentation/API/API.pptx)</td>
-
-<td>This module introduces the API App service.</td>
-
-</tr>
-
-<tr>
-
-<td>[Logic](Presentation/Logic/Demo.md)</td>
-
-<td>[Presentation](Presentation/Logic/Logic.pptx)</td>
-
-<td>This module introduces the Logic App service.</td>
-
-</tr>
-
-<tr>
-
-<td>[Mobile](Presentation/Mobile/Demo.md)</td>
-
-<td>[Presentation](Presentation/Mobile/Mobile.pptx)</td>
-
-<td>This module introduces the Mobile App service.</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-</div>
