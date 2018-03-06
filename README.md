@@ -3,7 +3,7 @@
 <div class="jumbotron">
 
 
-<img src="https://compimaginestorageppe.blob.core.windows.net/localpages/pk/en-us/001--20180105-0709/banner.jpg" data-canonical-src="https://compimaginestorageppe.blob.core.windows.net/localpages/pk/en-us/001--20180105-0709/banner.jpg" width="700" height="280" />
+<img src="https://compimaginestorageppe.blob.core.windows.net/localpages/pk/en-us/001--20180105-0709/banner.jpg" data-canonical-src="https://compimaginestorageppe.blob.core.windows.net/localpages/pk/en-us/001--20180105-0709/banner.jpg" width="550" height="280" />
 # Azure Readiness - Imagine Cup Pakistan 2018
 
 Contributor : Saad Mahmood 
