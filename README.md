@@ -10,6 +10,11 @@ It includes two parts,
 #### Presentations
 #### HOL (Hands-on Labs)
 
+Learn | Share 
+
+
+
+
 [Sign up for Microsoft Azure](http://aka.ms/CloudCamp-AzureTrial)
 
 </div>
